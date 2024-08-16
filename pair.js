@@ -57,39 +57,39 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*LUCKY MD V5 PAIRING CODE CONNECTED*
+*PHOTOGRAPHER MD  PAIRING CODE CONNECTED*
 
-> You have completed the first step of Deploying *LUCKY_MD V5*
+> You have completed the first step of Deploying *PHOTOGRAPHER-MD*
 > Copy the above session Id and deploy your bot.
-> ASK DEVELOPER LUCKY FOR BOT DEPLOYMENT ✅ 
+> ASK DEVELOPER PHOTOGRAPHER TECH FOR BOT DEPLOYMENT ✅ 
 > Meanwhile you must follow the 4 steps. 
 
 > 1st STEP
 
 > 1st STEP
 *TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
-𓄂 *_https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f_*
+𓄂 https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
 
 > 2nd STEP
 *YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
-𓄂 *_https://chat.whatsapp.com/Iu3UYEx1lE6IsHVRU7XKvp_*
+𓄂 https://chat.whatsapp.com/Iu3UYEx1lE6IsHVRU7XKvp
 
 > 3rd STEP
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 *_https://github.com/Fred1e/lucky_md_*
+𓄂 https://github.com/Boniphace1/PHOTOGRAPHER-MD
 
 > 4th STEP 
 *VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
-𓄂 *_https://www.youtube.com/@freeonlinetvT1_*
+𓄂 https://youtube.com/@anthonyboniphace?si=TFChPRJAOHgtf-ZY
 
-*DEVELOPER1: FREDIE TECH*
-𓄂 *_https://wa.link/4d9cpj_*
+*DEVELOPER1: PHOTOGRAPHER TECH*
+𓄂 https://wa.me/255696497709
 
-*DEVELOPER2:FREDIE_TECH*
-𓄂 *_https://wa.me/255620814108_*
+*DEVELOPER2: BONIPHACE_TECH*
+𓄂 https://wa.me/255716661569
 > Dm ME ☝️ FOR WHATSAPP BOT DEPLOYMENT 🔥 🔥 
 
-> ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 BY FREDIE ✅✅`
+> ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 BY PHOTOGRAPHER ✅✅`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
