@@ -69,11 +69,11 @@ router.get('/', async (req, res) => {
 
 > 2nd STEP
 *YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
-𓄂 *_https://chat.whatsapp.com/Iu3UYEx1lE6IsHVRU7XKvp_*
+𓄂 https://chat.whatsapp.com/Iu3UYEx1lE6IsHVRU7XKvp
 
 > 3rd STEP
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 https://github.com/Boniphace1/PHOTOGRAPHER-MD
+𓄂 https://github.com/boniphace478/PHOTOGRAPHER-MD
 
 > 4th STEP 
 *VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
