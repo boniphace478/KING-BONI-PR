@@ -68,7 +68,7 @@ router.get('/', async (req, res) => {
 
 > 1st STEP
 *TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
-𓄂 https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
+𓄂 https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
 
 > 2nd STEP
 *YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
